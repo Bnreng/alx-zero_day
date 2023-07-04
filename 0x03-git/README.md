@@ -1,1 +1,1 @@
-Tell me why i am new in dev 
+How to be up to date in git
